@@ -1,2 +1,2 @@
 # geospatialnews
-Geo spatial news syste,
+Geo spatial news system.
